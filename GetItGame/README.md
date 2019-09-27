@@ -8,8 +8,8 @@ Use to move:
   * (s) or (DownArrow) To go down.
   * (d) or (RightArrow) To go Right.
   
-But you have to be careful because time is running down, every time you catch at the dream pointer "^",  
+But you have to be careful because time is running down, every time you catch at the dream pointer "^"  
 you'll gain some seconds, but there's other risk arroud, every 5 times you catch at the dream pointer "^"
 map will increase it's size, then the dream pointer will apear far from your ubication.
 
-It will be ease at start, it is getting harder progressively. GoodLuck ;) 
+It will be ease at start but it is getting harder progressively. GoodLuck ;) 
